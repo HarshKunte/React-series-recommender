@@ -1,5 +1,5 @@
 {
-  "name": "movie-recommendation",
+  "name": "series-recommendation",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
